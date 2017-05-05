@@ -1,4 +1,4 @@
-World Cup Game Viewer
+# World Cup Game Viewer
 
 Search for your favorite soccer team's country code and view their past World Cup performance.
 
